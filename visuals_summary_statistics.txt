@@ -1,0 +1,7 @@
+Summary Statistics for Quality Metrics:
+
+               Length  GC_Content  Mean_Quality
+mean      1038.235363   53.000152     17.896345
+median     547.000000   53.530000     17.310000
+min         86.000000   14.970000      2.750000
+max     686155.000000   73.400000     38.840000

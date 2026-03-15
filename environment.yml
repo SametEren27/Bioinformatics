@@ -1,0 +1,13 @@
+name: bioinformatics_qc
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - snakemake-minimal
+  - biopython
+  - pandas
+  - matplotlib
+  - seaborn
+  - nanoplot

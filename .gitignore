@@ -1,0 +1,7 @@
+venv/
+.snakemake/
+__pycache__/
+*.fastq
+*.fastq.gz
+results/
+logs/
